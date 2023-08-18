@@ -1,0 +1,23 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore build output directories
+target/
+bin/
+build/
+
+# Ignore IDE-specific files and directories
+.idea/
+.vscode/
+
+# Ignore generated documentation
+docs/
+
+# Ignore configuration files with sensitive data
+config.properties
+
+# Ignore operating system-specific files
+.DS_Store
+Thumbs.db
+
+
