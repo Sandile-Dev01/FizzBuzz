@@ -20,4 +20,6 @@ config.properties
 .DS_Store
 Thumbs.db
 
+out/production/
+
 

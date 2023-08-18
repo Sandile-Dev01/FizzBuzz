@@ -7,7 +7,7 @@ public class Main{
         }else if(temperature > 20 && temperature < 30){
             System.out.println("It's a nice day");
         }else{
-            System.out.println("Its cold");
+            System.out.println("Its cold!");
         }
     }
 }
